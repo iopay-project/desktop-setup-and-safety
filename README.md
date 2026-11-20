@@ -54,7 +54,7 @@ The writing assumes a reader who has the installer, or is about to download one,
 
 ## The guides grouped
 
-### Get it installed
+### Get it installed.
 
 The installation cluster exists because the release publishes three files whose SHA-256 values are listed in the app README, and because the platform procedures genuinely differ. Windows runs an `.exe`, macOS mounts a `.dmg` and may report a damaged copy that is really a quarantine flag, and Linux hands you a zip that has to be unpacked with its execute bit restored. The pages below name the exact file each platform receives, the size it should be, and the first-launch sequence that follows. They also cover the two questions that arrive before an install: what the wallet is, and which of the several builds carrying this name is the current one.
 
